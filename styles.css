@@ -1,0 +1,39 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+    color: black;
+}
+
+a {
+    font-size: 30px;
+    color: inherit;
+    text-decoration: none;
+}
+
+div {
+    padding: 0%;
+    border: 0x;
+}
+
+.header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: auto;
+    height: 50px;
+}
+
+.recipebox {
+    background-color: #ca0015;
+    border: 5px solid black;
+    height: 40px;
+}
+
+.recipe {
+    color: white;
+    font-weight: bold;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    display: block
+}
