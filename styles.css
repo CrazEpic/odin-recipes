@@ -23,6 +23,14 @@ div {
     height: 50px;
 }
 
+.subheader {
+    background-color: #ca0015;
+    border: 5px solid black;
+    height: 40px;
+    color: white;
+    font-weight: bold;
+}
+
 .recipebox {
     background-color: #ca0015;
     border: 5px solid black;
@@ -36,4 +44,28 @@ div {
     width: 100%;
     text-align: center;
     display: block
+}
+
+.image {
+    width: 500px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+.imagetext {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+.listingbox {
+    background-color: gray;
+}
+
+.listingelement {
+    color: black;
+    font-size: large;
+    font-weight: bold;
 }
